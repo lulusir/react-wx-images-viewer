@@ -32,7 +32,7 @@ class WrapViewer extends Component {
   }
 
   changeIndex = (index) => {
-    console.info('changeIndex index = ', index);
+//     console.info('changeIndex index = ', index);
     this.setState({
       index,
     });
